@@ -1,0 +1,6 @@
+/home/kevinc/Documents/Programming/CSharpDotNet/ListViewTest/ListViewTest/obj/x86/Debug/ListViewTest.csprojAssemblyReference.cache
+/home/kevinc/Documents/Programming/CSharpDotNet/ListViewTest/ListViewTest/obj/x86/Debug/ListViewTest.csproj.CoreCompileInputs.cache
+/home/kevinc/Documents/Programming/CSharpDotNet/ListViewTest/ListViewTest/bin/Debug/ListViewTest.exe
+/home/kevinc/Documents/Programming/CSharpDotNet/ListViewTest/ListViewTest/bin/Debug/ListViewTest.pdb
+/home/kevinc/Documents/Programming/CSharpDotNet/ListViewTest/ListViewTest/obj/x86/Debug/ListViewTest.exe
+/home/kevinc/Documents/Programming/CSharpDotNet/ListViewTest/ListViewTest/obj/x86/Debug/ListViewTest.pdb
